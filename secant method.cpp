@@ -164,7 +164,7 @@ int main(){
 			cout <<"The f(Xi-1) is "<<resultxi1<<endl;
 			cout <<"The f(Xi) is "<<resultxi<<endl;
 			cout <<"The Xi+1 is "<<xi2<<endl;
-			cout <<"The relative error is "<<apperror<<endl;
+			cout <<"The percentage error is "<<apperror<<endl;
 			cout<<"----------------------------"<<endl;
 	
 		xi1 = xi;
